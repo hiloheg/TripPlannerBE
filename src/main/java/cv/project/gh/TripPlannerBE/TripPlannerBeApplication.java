@@ -1,0 +1,13 @@
+package cv.project.gh.TripPlannerBE;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class TripPlannerBeApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(TripPlannerBeApplication.class, args);
+	}
+
+}
